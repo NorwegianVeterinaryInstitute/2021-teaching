@@ -1,2 +1,3 @@
 This is my first text file
-This is sentence number 2
+This is sentence number two
+This is sentence number 3
